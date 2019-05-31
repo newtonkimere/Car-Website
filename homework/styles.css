@@ -1,0 +1,21 @@
+.top_header{
+    background-color:black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.landing_img{
+    background-image: url('./Images/shadow.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+    padding-top: 100px;
+}
+.body{
+    background-image: url("./Images/red black.jpeg");
+    background-repeat: no-repeat;
+}
